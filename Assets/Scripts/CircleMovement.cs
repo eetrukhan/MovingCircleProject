@@ -11,8 +11,8 @@ using Slider = UnityEngine.UI.Slider;
 public class CircleMovement : MonoBehaviour
 {
     // Speed of circle
-    private float speed;
-
+    private float speed; 
+    
     // Coordinates in world
     private Vector3 point; 
     
